@@ -30,7 +30,7 @@
         "types/**/*.ts",
         "**/*.ts",
         "**/*.tsx"
-    ],
+, "older/index.js"    ],
     "exclude": [
         "node_modules"
     ]
